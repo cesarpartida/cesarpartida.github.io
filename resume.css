@@ -1,39 +1,21 @@
 
 html {
 
- background: radial-gradient(#648880, #293f50);
+
+ background: radial-gradient(#4AC29A, #BDFFF3);
 
 }
 img, .headshot{
   max-width: 25%;
   max-height: 25%;
-  border-radius: 25%;
+  border-radius: 50%;
 display: block;
 margin: 0 auto;
 }
 
-h1 {
-    color: white;
-}
-li
-{
-  color: white;
-
+h1,li,p, ul, a, div {
+    color: rainbow;
+      font-family: "Comic Sans MS", cursive, sans-serif
 }
 
-p {
-  color: white;
-}
-
-ul {
-  color: white;
-}
-
-a {
-  color: white;
-}
-
-div {
-color: white;
-
-}
+/* Start http://www.cursors-4u.com */ body, a:hover {cursor: url(https://steamcdn-a.akamaihd.net/steamcommunity/public/images/avatars/37/37f23e34c7f811401289dbeb1dd2f81c0fe19847.jpg), progress !important;} /* End http://www.cursors-4u.com */
