@@ -1,0 +1,39 @@
+
+html {
+
+ background: radial-gradient(#648880, #293f50);
+
+}
+img, .headshot{
+  max-width: 25%;
+  max-height: 25%;
+  border-radius: 25%;
+display: block;
+margin: 0 auto;
+}
+
+h1 {
+    color: white;
+}
+li
+{
+  color: white;
+
+}
+
+p {
+  color: white;
+}
+
+ul {
+  color: white;
+}
+
+a {
+  color: white;
+}
+
+div {
+color: white;
+
+}
